@@ -460,12 +460,10 @@ Documentation
 
 ## Getting Help
 
-1. **Read the SRS first** (`INTERN_SRS.md`) — most questions are answered there
+1. **Read the SRS first** (`SRS.md`) — most questions are answered there
 2. **Use AI prompts from Section 10 of the SRS** — they are designed to produce code that matches these patterns
 3. **Look at the pattern examples in SRS Section 8** — every file type has a full working example
 4. **Check the "10 Rules" above** — if something feels off during integration, one of these is usually the cause
 
 ---
 
-*Techible Platform — Intern Build*
-*Read INTERN_SRS.md for complete specifications*
